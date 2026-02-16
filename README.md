@@ -1,5 +1,10 @@
 # 🚀 Ride-Hailing Marketplace Analytics & Optimization Simulator
 
+## 🔗 Live Demo
+👉 https://ride-hailing-marketplace-analytics.streamlit.app/
+
+---
+
 A data-driven simulation of a ride-hailing marketplace (Rapido/Uber-style system) that models demand-supply imbalance, surge pricing, rider allocation, and revenue optimization.
 
 This project analyzes how rider supply impacts:
@@ -105,4 +110,4 @@ Insights:
 
 ```bash
 git clone <your-repo-url>
-cd ride-hailing-marketplace-analytics
+cd ride-hailing-marketplace-analytics 
